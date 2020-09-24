@@ -1,5 +1,5 @@
 {
-  "total_page_count":"2",
+  "totalPageCount":"2",
   "freeRefrashCountPerDay":"1",
   "rewardedRefrashCountPerDay":"2"
 }
