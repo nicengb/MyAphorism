@@ -2,6 +2,6 @@
   "totalPageCount":"1",
   "freeRefrashCountPerDay":"0",
   "rewardedRefrashCountPerDay":"2",
-  "key":"R4PbxiOU3Nh8GoRVwCBHXmu3ZCNeZ4s1"
+  "key":"R4PbxiOU3Nh8GoRVwCBHXmu3ZCNeZ4s1",
   "update":"0"
 }
